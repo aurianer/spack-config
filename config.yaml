@@ -1,0 +1,6 @@
+config:
+  ## Default is urllib
+  #url_fetch_method: curl
+  #ccache : true
+  targets:
+    host_compatible: false
